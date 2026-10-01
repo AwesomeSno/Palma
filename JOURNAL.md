@@ -14,21 +14,21 @@
 
 ## Contents
 
-1. [2026-10-01 — #October 1: Starting my project](#2026-10-01-october-1-starting-my-project)
+1. [2026-10-01 — # October 1: Starting my project](#2026-10-01-october-1-starting-my-project)
 
 ## Design
 
-### 2026-10-01 — #October 1: Starting my project
+### 2026-10-01 — # October 1: Starting my project
 
 **1h**
 
-#October 1: Starting my project
+# October 1: Starting my project
 
 I thought up the idea to build a universal gesture controller kind of project.
 
 ![Screenshot 2026-10-01 at 3.28.44 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hekUGdMUsJvkfZr4IeTGwJeZETfm9ZrV/870406eda3aa4247128ec43f4eec4f9e634a4dafc405a1d1c4a62f327fbf1377.png)
 
-##Researching the components to use
+## Researching the components to use
 
 The project uses ESP32-S3-WROOM-1 for the brain, because it is both cheap and does everything Palma needs on its own.
 - It runs the neural net. It collects the motion data and all, and it decides which gesture was made. (This is the main job of the board)
