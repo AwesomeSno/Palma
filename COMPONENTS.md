@@ -10,5 +10,5 @@
 - USB-C connector
 - Coin vibration motor + transistor to drive it. 
 
-## Cosmetic Components
+
 
