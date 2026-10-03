@@ -60,4 +60,4 @@ I think all this should be enough for the electronic part of the wristband along
 ![Screenshot 2026-10-01 at 4.31.42 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/hekUGdMUsJvkfZr4IeTGwJeZETfm9ZrV/ef274284f954e9d9088687776b2a9590ad391df29eff0ce0cac4afac432471e5.png)
 *(This image is AI generated, just for the preview of the components)*
 
-I will continue doing research on the Cosmetic components. More updates coming up!
+I will continue doing research on the Schematic Design. More updates coming up!
